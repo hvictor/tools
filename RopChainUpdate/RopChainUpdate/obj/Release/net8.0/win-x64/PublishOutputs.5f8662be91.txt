@@ -1,0 +1,2 @@
+C:\git\tools\RopChainUpdate\RopChainUpdate\bin\Release\net8.0\publish\win-x64\RopChainUpdate.pdb
+C:\git\tools\RopChainUpdate\RopChainUpdate\bin\Release\net8.0\publish\win-x64\RopChainUpdate.exe
