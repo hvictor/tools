@@ -1,2 +1,0 @@
-C:\git\tools\RopChainUpdate\bin\RopChainUpdate.pdb
-C:\git\tools\RopChainUpdate\bin\RopChainUpdate.exe

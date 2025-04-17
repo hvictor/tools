@@ -1,5 +1,0 @@
-C:\git\tools\RopChainUpdate\RopChainUpdate\bin\Release\net8.0\publish\RopChainUpdate.exe
-C:\git\tools\RopChainUpdate\RopChainUpdate\bin\Release\net8.0\publish\RopChainUpdate.dll
-C:\git\tools\RopChainUpdate\RopChainUpdate\bin\Release\net8.0\publish\RopChainUpdate.deps.json
-C:\git\tools\RopChainUpdate\RopChainUpdate\bin\Release\net8.0\publish\RopChainUpdate.runtimeconfig.json
-C:\git\tools\RopChainUpdate\RopChainUpdate\bin\Release\net8.0\publish\RopChainUpdate.pdb
